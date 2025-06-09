@@ -1,15 +1,7 @@
-using System;
-using System.Collections;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Text;
 using System.Text.RegularExpressions;
-using System.Threading.Tasks; // Required for Task
+// Required for Task
 using System.Xml;
-using Common.TextProcessing;
-using Common.TextProcessing.Abstract;
-using Common.TextReaders.Interfaces;
+using Common.TextReaders.Abstract;
 
 namespace Common.TextReaders;
 

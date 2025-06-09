@@ -1,4 +1,4 @@
-namespace Common.TextReaders.Interfaces;
+namespace Common.TextReaders.Abstract;
 
 public interface ITextReader
 {

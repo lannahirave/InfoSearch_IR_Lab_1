@@ -1,5 +1,4 @@
-using Common.TextProcessing;
-using Common.TextReaders.Interfaces;
+using Common.TextReaders.Abstract;
 
 namespace Common.TextReaders;
 

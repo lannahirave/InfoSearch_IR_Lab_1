@@ -1,7 +1,7 @@
 using System.Text.RegularExpressions;
+using Common.TextReaders.Abstract;
 // using Common.TextProcessing; // Не потрібен, якщо нормалізатор тут не використовується
 // using Common.TextProcessing.Abstract; // Не потрібен
-using Common.TextReaders.Interfaces;
 
 namespace Common.TextReaders;
 

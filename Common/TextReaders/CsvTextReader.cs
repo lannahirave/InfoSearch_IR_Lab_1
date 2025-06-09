@@ -1,7 +1,5 @@
 using System.Text.RegularExpressions;
-using Common.TextProcessing;
-using Common.TextProcessing.Abstract;
-using Common.TextReaders.Interfaces;
+using Common.TextReaders.Abstract;
 
 namespace Common.TextReaders;
 
